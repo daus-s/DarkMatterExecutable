@@ -1,0 +1,31 @@
+Abstract
+-Daus                                                                           "Give Love"
+
+This projects goal is to determine the properties of the 'extraneous' matter observed in the universe. We call this dark matter and 
+are trying to find possible properties of dark matter and possible candidates based on actions observed in cosmic scales.
+
+This is the beginning of the end. This directory will be uploaded to Github on a regular basis in order to maintain the version.
+The old project was started in Java and will provide the framework, however once this project is setup the computational performance
+will be higher as it is written in C++, with a main script and a few objects. The analysis will be done in python and the GUI and
+simulation display will be done in Java. The entire program will be run through a simple program in terminal, that can be translated
+into CMD line.
+
+Principles used:
+
+
+
+
+
+
+Assumptions:
+donut/closed universe: this can also be described as there is translation symmetry in all 4 cardinal directions in this 2-D simulation.
+conservation of energy in collisions, applied through conserving relative velocity in the form: sgn(p1)*sgn(p2)*(vi1-vi2)=(v2f-v1f)
+
+
+Codes:
+"#0124abcd" end of output file
+"#1111" program successful execution - outputted to console with exit message.
+
+Startup documentation
+c++:
+  ./"a".out "output".txt "simulation_name"
